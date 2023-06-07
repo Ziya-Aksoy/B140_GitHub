@@ -1,4 +1,4 @@
---Local'imizde repo oluşturabilmek için
+--Local'de repo oluşturma ve Git_Github kullanimi;
 1-Çalışacağımız klazörü seçip yada yeni bir klasör oluşturup, klasörün yolunu gösteren bölüme cmd yazıp
 enter yapıp açmış olduğumuz klasörün yolunda terminalimizi açmış oluruz
 2-Ve bu dizinde açılan terminale GİT INIT küçük harflerler yazarız ve initilaze empty git repository yazısını
