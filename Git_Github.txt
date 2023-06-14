@@ -15,3 +15,7 @@ gördüğümüzde bu çalışma alanımızda boş bir repository oluşturmuş ol
 Aynı şekilde adresi tanımladığımız için sadece git push komutu ilede kodlarımızı gönderebiliriz
 
 --Restore/Branch ve Stash komutlari
+1-Working Space ve Staging Area daki yapmis oldugumuz degisiklikleri geri alabiliriz
+Working Space de yaptigimiz guncellemeyi geri almak icin --> git restore . <-- komutuyla yapilan degisiklikleri geri alabiliriz
+Eger stage den geri almak istersek --> git restore --staged . <-- komutuyla working space'e geri alabiliriz
+Ama her ikisindende yazdiklarimizi kaldirmak istersek --> git reset --hard <-- komutunu kullaniriz.
