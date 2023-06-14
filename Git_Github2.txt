@@ -2,3 +2,4 @@
 .Deneme
 .Deneme2
 -Ziya Branch'i yeni guncelleme
+-Ziya Branch'i 2nci guncelleme
